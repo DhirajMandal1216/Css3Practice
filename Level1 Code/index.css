@@ -1,0 +1,21 @@
+/* ctrl + / for comment in css */
+
+h1{
+    color: red;
+}                   
+ p{
+    color: blueviolet;
+}
+/* id selector */
+#heading_text{
+    color: aqua;
+}
+#paragraph_text{
+    color: rebeccapurple;
+}
+
+
+/* class selector */
+.header_text{
+    color: tomato;
+}
